@@ -13,23 +13,15 @@
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
-
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
-
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+
+- 28 Years Old
+- Online Enterpreneur
+- Already Familiar with e-commerce website before
+- Active internet user
+- Active computer and smartphone (Android) user
+
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -39,34 +31,50 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - What is your current occupation?
 - How frequently You use the internet?
 - How frequently You use computer?
-- Have you ever done some online transaction before
+- Have you ever done some online transaction before?
 - Have you used Search Suggestion before?
 
 ### Intruction
 - Show category button
 - Change The page
-- Filter The price
-- Sort on newest
+- show Filter price
+- Show Sort button
 - Back to home page
 - Search "Sepeda gunung"
 - Show product Details
 - Show the price
 - show contact Person
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
+    00.01 Me : Mas Sebelumnya terimakasih sudah meluangkan waktunya
+    00.06 Me : Mas untuk sehari hari bekerja sebagai apa
+  	00.10 Him : saya Jualan online di salah satu web jual beli
+    00.19 Me : Jadi Aktif dalam menggunakan internet ya untuk keseharian nya
+    00.28 Him : Iya tentu saja.
+    00.35 Me : Untuk Transaksi nya menggunakan laptop atau android biasanya
+    00.47 Him : pake laptop mas biasanya
+    00.59 Me : Menurut mas Membantu kah fitur search suggestion yang biasa mas gunakan
+    01.13 Him : Membantu Banget sih mas soalnya , capek kalau harus nyari 1 1 , terus untuk suggetion nya mempermudah kita misal ada salah ketik
+    01.56 Me : Jadi gini mas saya mau meminta pendapat mas soal web site jual beli saya (Explain that there will be an instruction that user must try to achieve and remind him that it will be used to test the system and not him)
+    03.11 Him : oke.
+    03.12 Me : Mas tolong buka kategori vechicle
+    03.13 Him : (fastly click Vechicle Category on navbar) , terus mas
+    03.18 Me : Sekarang tunjukin Fitur Filter Harga mas
+    03.23 Him : (fastly arrange the pointer on the Filter card) , ini kan mas
+    03.30 Me : sekarang kembali ke home mas
+    03.31 Him : (Clicking on Home Button on top left) udah mas
+    03.33 Me : sip mas sekarang coba search sepeda gunung
+    03.34 Him : (click on search bar and type "sepeda") wah langsung kluar suggestion nya ya mas (clicking on suggestion)
+    03.50 Me : iya mas soalnya baru sedikit isinya , coba sekarang buka detail produknya mas
+    03.51 Him : (clicking on the product) 
+    03.53 Me : sekarang coba tunjukin harganya mas
+    03.55 Him : (arrange pointer to price details) ini mas  
+    04.10 Him : kalau contact person yang mana mas
+    04.11 Him : (arrange pointer to contact person) yang ini kan bawah nya
+    04.14 Me : Udah selesai mas itu aja makasih ya mas
+    04.17 Him : iya mas sama sama
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
