@@ -5,7 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-![](image/image1.jpg)
+![image1](image/image1.jpg)
 
 Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 ## Part A: Usability Evaluation
