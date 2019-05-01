@@ -159,7 +159,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 
 ## Part B: Prototyping (again)
 ### Sketch
-![image6](image/Image6.jpg)
+![image6](image/Image7.jpg)
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
