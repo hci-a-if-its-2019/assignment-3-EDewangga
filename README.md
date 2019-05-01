@@ -7,6 +7,7 @@
 ## Operating the Prototype
 ![](image/image1.jpg)
 
+Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 ## Part A: Usability Evaluation
 ### 1. Brief Description of Participants
 #### a. Description of Participant 1
@@ -43,6 +44,7 @@
 - Show product Details
 - Show the price
 - show contact Person
+
 ### 3. Transcript
 
 #### a. Transcript with Participant 1
@@ -60,7 +62,7 @@
 - **01:13** Her : Membantu Banget sih mas biar ngga usah nyuri satu"
 - **01:40** Me : Jadi gini mba saya mau meminta pendapat mba soal web site jual beli saya (Explain that there will be an instruction that user must try to achieve and remind him that it will be used to test the system and not him)
 - **03:22** Her : oke.
-- **03:23** Me : Mas tolong buka kategori vechicle
+- **03:23** Me : mba tolong buka kategori vechicle
 - **03:26** Her : (click Vechicle Category on navbar) , terus mas
 - **03:35** Me : Sekarang tunjukin Fitur Filter Harga mba
 - **03:38** Him : (fastly arrange the pointer on the Filter card) , ini kan mas
@@ -118,35 +120,47 @@
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![](image/image2.jpg)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
- 
+
+- **Reference**: Participant 1 **03.26** Participant 2 **03.13**
+- **Feedback**: Positive feedback
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: -
+
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+![](image/image3.jpg)
+- **Reference**: Participant 1 **03.35** Participant 2 **03.18**
+- **Feedback**: Positive feedback
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: -
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![](image/image4.jpg)
+- **Reference**: Participant 1 **03.49**
+- **Feedback**: Positive feedback
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: -
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+#### OBSERVATION 4
+![](image/image5.jpg)
+- **Reference**: Participant 1 **03.26** Participant 2 **03.13**
+- **Feedback**: Positive feedback
+- **Incidence**: The result didnt show
+- **Reason**: The keyword didnt match
+- **Resolution**: -
+
+#### OBSERVATION 5
+![](image/image6.jpg)
+- **Reference**: Participant 1 **03.26** Participant 2 **03.13**
+- **Feedback**: negative feedback , The user so confused because of there are two different type on one product 
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: Make new Product details on each type
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
