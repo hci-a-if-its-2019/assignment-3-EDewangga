@@ -143,7 +143,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 
 #### OBSERVATION 4
 ![image5](image/Image5.jpg)
-- **Reference**: Participant 1 **03.26** Participant 2 **03.13**
+- **Reference**: Participant 1 **04.15** Participant 2 **03.34**
 - **Feedback**: Positive feedback
 - **Incidence**: The result didnt show
 - **Reason**: The keyword didnt match
@@ -151,7 +151,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 
 #### OBSERVATION 5
 ![image6](image/Image6.jpg)
-- **Reference**: Participant 1 **03.26** Participant 2 **03.13**
+- **Reference**: Participant 1 **05.14**  **05.20**
 - **Feedback**: negative feedback , The user so confused because of there are two different type on one product 
 - **Incidence**: -
 - **Reason**: -
