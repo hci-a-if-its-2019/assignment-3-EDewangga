@@ -120,7 +120,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![](image/image2.jpg)
+![image2](image/Image2.jpg)
 
 
 - **Reference**: Participant 1 **03.26** Participant 2 **03.13**
@@ -131,7 +131,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 
 #### OBSERVATION 2
 
-![](image/image3.jpg)
+![image3](image/Image3.jpg)
 - **Reference**: Participant 1 **03.35** Participant 2 **03.18**
 - **Feedback**: Positive feedback
 - **Incidence**: -
@@ -139,7 +139,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 - **Resolution**: -
  
 #### OBSERVATION 3
-![](image/image4.jpg)
+![image4](image/Image4.jpg)
 - **Reference**: Participant 1 **03.49**
 - **Feedback**: Positive feedback
 - **Incidence**: -
@@ -147,7 +147,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 - **Resolution**: -
 
 #### OBSERVATION 4
-![](image/image5.jpg)
+![image5](image/Image5.jpg)
 - **Reference**: Participant 1 **03.26** Participant 2 **03.13**
 - **Feedback**: Positive feedback
 - **Incidence**: The result didnt show
@@ -155,7 +155,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 - **Resolution**: -
 
 #### OBSERVATION 5
-![](image/image6.jpg)
+![image6](image/Image6.jpg)
 - **Reference**: Participant 1 **03.26** Participant 2 **03.13**
 - **Feedback**: negative feedback , The user so confused because of there are two different type on one product 
 - **Incidence**: -
