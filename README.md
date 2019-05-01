@@ -159,7 +159,7 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 
 ## Part B: Prototyping (again)
 ### Sketch
-![image6](image/Image7.jpg)
+![image6](image/image7.jpg)
 ### Design Rationale
 What is most visible from the user saying in CI is what we design must have clear goals, Users can easily find a feature without any confusion and help users in carrying out their activities
 ### High-Fidelity Interactive-Prototype
