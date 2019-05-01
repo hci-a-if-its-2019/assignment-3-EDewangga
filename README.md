@@ -161,8 +161,6 @@ Link for Ideal prototype flow https://youtu.be/imx5yM-1Jaw
 ### Sketch
 ![image6](image/Image7.jpg)
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
-
+What is most visible from the user saying in CI is what we design must have clear goals, Users can easily find a feature without any confusion and help users in carrying out their activities
 ### High-Fidelity Interactive-Prototype
 https://invis.io/Q8RSX6GD7S4#/360992524_Image_16
