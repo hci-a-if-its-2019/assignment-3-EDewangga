@@ -5,12 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-
----
+![](image/image1.jpg)
 
 ## Part A: Usability Evaluation
 ### 1. Brief Description of Participants
@@ -43,7 +38,6 @@
 - Show category button
 - Change The page
 - show Filter price
-- Show Sort button
 - Back to home page
 - Search "Sepeda gunung"
 - Show product Details
